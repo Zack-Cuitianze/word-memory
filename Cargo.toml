@@ -1,0 +1,8 @@
+[package]
+name = "word-memory"
+version = "0.1.0"
+edition = "2018"
+description = "A memory game with words"
+
+[dependencies]
+# Add your project's dependencies here
