@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+python_env/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+
+# Rust
+/target
+**/*.rs.bk
+**/*.rs.old
+
+# macOS
+.DS_Store
